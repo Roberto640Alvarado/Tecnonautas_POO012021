@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FAMILIA\\Desktop\\ACTIVITY GIT\\Github\\Github.csproj": {}
+    "C:\\Users\\rober\\Desktop\\Pruebas\\GITHUB\\Tecnonautas_POO012021\\Github.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FAMILIA\\Desktop\\ACTIVITY GIT\\Github\\Github.csproj": {
+    "C:\\Users\\rober\\Desktop\\Pruebas\\GITHUB\\Tecnonautas_POO012021\\Github.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FAMILIA\\Desktop\\ACTIVITY GIT\\Github\\Github.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\Desktop\\Pruebas\\GITHUB\\Tecnonautas_POO012021\\Github.csproj",
         "projectName": "Github",
-        "projectPath": "C:\\Users\\FAMILIA\\Desktop\\ACTIVITY GIT\\Github\\Github.csproj",
-        "packagesPath": "C:\\Users\\FAMILIA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FAMILIA\\Desktop\\ACTIVITY GIT\\Github\\obj\\",
+        "projectPath": "C:\\Users\\rober\\Desktop\\Pruebas\\GITHUB\\Tecnonautas_POO012021\\Github.csproj",
+        "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rober\\Desktop\\Pruebas\\GITHUB\\Tecnonautas_POO012021\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\FAMILIA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

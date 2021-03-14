@@ -1,0 +1,16 @@
+C:\Users\rober\Desktop\Pruebas\GITHUB\Tecnonautas_POO012021\bin\Debug\net5.0\Github.exe
+C:\Users\rober\Desktop\Pruebas\GITHUB\Tecnonautas_POO012021\bin\Debug\net5.0\Github.deps.json
+C:\Users\rober\Desktop\Pruebas\GITHUB\Tecnonautas_POO012021\bin\Debug\net5.0\Github.runtimeconfig.json
+C:\Users\rober\Desktop\Pruebas\GITHUB\Tecnonautas_POO012021\bin\Debug\net5.0\Github.runtimeconfig.dev.json
+C:\Users\rober\Desktop\Pruebas\GITHUB\Tecnonautas_POO012021\bin\Debug\net5.0\Github.dll
+C:\Users\rober\Desktop\Pruebas\GITHUB\Tecnonautas_POO012021\bin\Debug\net5.0\ref\Github.dll
+C:\Users\rober\Desktop\Pruebas\GITHUB\Tecnonautas_POO012021\bin\Debug\net5.0\Github.pdb
+C:\Users\rober\Desktop\Pruebas\GITHUB\Tecnonautas_POO012021\obj\Debug\net5.0\Github.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\Pruebas\GITHUB\Tecnonautas_POO012021\obj\Debug\net5.0\Github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Desktop\Pruebas\GITHUB\Tecnonautas_POO012021\obj\Debug\net5.0\Github.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\Pruebas\GITHUB\Tecnonautas_POO012021\obj\Debug\net5.0\Github.AssemblyInfo.cs
+C:\Users\rober\Desktop\Pruebas\GITHUB\Tecnonautas_POO012021\obj\Debug\net5.0\Github.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Pruebas\GITHUB\Tecnonautas_POO012021\obj\Debug\net5.0\Github.dll
+C:\Users\rober\Desktop\Pruebas\GITHUB\Tecnonautas_POO012021\obj\Debug\net5.0\ref\Github.dll
+C:\Users\rober\Desktop\Pruebas\GITHUB\Tecnonautas_POO012021\obj\Debug\net5.0\Github.pdb
+C:\Users\rober\Desktop\Pruebas\GITHUB\Tecnonautas_POO012021\obj\Debug\net5.0\Github.genruntimeconfig.cache
